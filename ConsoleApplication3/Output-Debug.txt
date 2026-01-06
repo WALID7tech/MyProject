@@ -1,0 +1,15 @@
+﻿'ConsoleApplication3.exe' (Win32): Loaded 'C:\Users\Administrator\source\repos3\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe'. Symbols loaded.
+'ConsoleApplication3.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. Symbol loading disabled by Include/Exclude setting.
+'ConsoleApplication3.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. Symbol loading disabled by Include/Exclude setting.
+'ConsoleApplication3.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. Symbol loading disabled by Include/Exclude setting.
+'ConsoleApplication3.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. Symbol loading disabled by Include/Exclude setting.
+'ConsoleApplication3.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. Symbol loading disabled by Include/Exclude setting.
+'ConsoleApplication3.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. Symbol loading disabled by Include/Exclude setting.
+'ConsoleApplication3.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. Symbol loading disabled by Include/Exclude setting.
+The thread 13648 has exited with code 0 (0x0).
+'ConsoleApplication3.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. Symbol loading disabled by Include/Exclude setting.
+'ConsoleApplication3.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. Symbol loading disabled by Include/Exclude setting.
+'ConsoleApplication3.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. Symbol loading disabled by Include/Exclude setting.
+The thread 12244 has exited with code 0 (0x0).
+The thread 11476 has exited with code 0 (0x0).
+The program '[2824] ConsoleApplication3.exe' has exited with code 0 (0x0).
