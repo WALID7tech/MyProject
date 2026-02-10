@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos3\\ConsoleApplication5_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BE67469-7372-497E-A5D5-FF1035BA513B}|ConsoleApplication5_2\\ConsoleApplication5_2.vcxproj|C:\\Users\\Administrator\\source\\repos3\\ConsoleApplication5_2\\ConsoleApplication5_2\\ConsoleApplication5_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2BE67469-7372-497E-A5D5-FF1035BA513B}|ConsoleApplication5_2\\ConsoleApplication5_2.vcxproj|solutionrelative:ConsoleApplication5_2\\ConsoleApplication5_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApplication5_2.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos3\\ConsoleApplication5_2\\ConsoleApplication5_2\\ConsoleApplication5_2.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication5_2\\ConsoleApplication5_2.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos3\\ConsoleApplication5_2\\ConsoleApplication5_2\\ConsoleApplication5_2.cpp",
+              "RelativeToolTip": "ConsoleApplication5_2\\ConsoleApplication5_2.cpp",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-14T23:38:58.46Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
